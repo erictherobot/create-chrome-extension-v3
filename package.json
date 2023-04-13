@@ -1,6 +1,6 @@
 {
   "name": "create-chrome-extension-v3",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Quickly generate a v3 chrome extension",
   "main": "index.js",
   "bin": {
