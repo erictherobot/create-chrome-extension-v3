@@ -20,6 +20,10 @@
     "generator"
   ],
   "author": "Eric David Smith",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erictherobot/create-chrome-extension-v3"
+  },
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {}
